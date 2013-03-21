@@ -6,7 +6,6 @@ r=range(9);
 rc=range(9);
 a=0;
 
-
 while (a<9):
 	b=randint(0,8);
 	if(r[b]!=-1):
@@ -43,7 +42,6 @@ while(ok==0):
 	print(puzzle[2]);
 	
 	b=raw_input("왼쪽 a 오른쪽 d 위쪽 w 아래쪽 s : ");
-	
 	
 	err=1;
 	if(b=="a" and ar2!=0 ):
