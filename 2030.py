@@ -9,7 +9,7 @@ def abcd(dict):
 
 	return a2030
 
-
+#2
 member_info = {'minsu' : 23 , 'jisu':33 , 'john' : 21 , 'david' : 33, 'jisu' : 21, 'hary':36, 'messi' :33, 'ronaldo' : 27}
 
 print abcd(member_info)
